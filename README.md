@@ -1,4 +1,4 @@
-# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation 🧠💻
+# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation 
 
 [cite_start]This project is a critical initiative by final-year engineering students at the **University of Moratuwa** to develop a life-changing **Brain-Computer Interface (BCI)** for children with severe motor impairments or a serious loss of muscle control and movement ability[cite: 5].
 
