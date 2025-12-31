@@ -1,4 +1,4 @@
-2# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation
+# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation
 
 This project is an initiative by final-year engineering students at the University of Moratuwa to develop a Brain-Computer Interface (BCI) for children with severe motor impairments or significant loss of muscle control and movement ability.
 
