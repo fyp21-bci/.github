@@ -1,4 +1,4 @@
-# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation
+2# OpenBCI-Enabled Brain-Computer Interface (BCI) for Pediatric Neurorehabilitation
 
 This project is an initiative by final-year engineering students at the University of Moratuwa to develop a Brain-Computer Interface (BCI) for children with severe motor impairments or significant loss of muscle control and movement ability.
 
@@ -31,15 +31,6 @@ The project utilizes the OpenBCI platform, an open-source and affordable biosens
 
 Reliable signal acquisition is a critical requirement for effective signal processing, classification, and real-time interaction.
 
-### Key Benefits of OpenBCI
-
-- High-quality precision for multi-channel EEG signal acquisition  
-- Pediatric suitability through adjustable and comfortable Ultracortex headsets  
-- Modular hardware architecture supporting multiple BCI paradigms such as SSVEP, P300, and motor imagery  
-- Reduced development time and cost by avoiding low-level hardware design  
-- Long-term value as a reusable research platform for future undergraduate, postgraduate, and clinical research projects  
-
----
 
 ## Project Timeline (10 Months)
 
@@ -73,15 +64,3 @@ The project is conducted by four final-year engineering students from the Depart
 - Mr. Kithimin Wickramsinghe, MASc, University of British Columbia  
 
 ---
-
-## Contact Information
-
-For further inquiries, please contact:
-
-**Chathura Nirmal Weerasinghe**  
-- chathuranirmalweerasinghe@gmail.com  
-- weerasinghecn.21@uom.lk  
-
-**Risini Dinara Kumarasinghe**  
-- risinidhinara@gmail.com  
-- kumarasingerd.21@uom.lk  
