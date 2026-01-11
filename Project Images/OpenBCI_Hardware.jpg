@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="We provide anyone with a computer, the tools necessary to sample the electrical activity of their body. Our versatile and affordable bio-sensing microcontrollers can be used to sample electrical brain activity (EEG), muscle activity (EMG), heart rate (EKG), and much more. Our 3D-printable EEG headsets can be used to get research-grade EEG recordings."
+    />
+
+    <!-- June 2021 Facebook Domain Verification -->
+    <meta
+      name="facebook-domain-verification"
+      content="edqufngdwnj8gykt6uzywr8hfzacpa"
+    />
+
+    <!-- Facebook and other Socials card info -->
+    <meta
+      name="image"
+      property="og:image"
+      content="http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg"
+    />
+    <meta
+      name="title"
+      property="og:title"
+      content="Open Source Tools for Neuroscience"
+    />
+
+    <!-- Twitter Card -->
+    <meta
+      property="twitter:title"
+      content="Open Source Tools for Neuroscience"
+    />
+    <meta
+      property="twitter:image"
+      content="http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-5MNP6L3Q");
+    </script>
+    <!-- End Google Tag Manager -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#011326" />
+    <meta name="msapplication-TileColor" content="#011326" />
+    <meta name="theme-color" content="#011326" />
+    <title>OpenBCI</title>
+    <style>
+      .full-page-loader {
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    </style>
+    <script
+      id="ze-snippet"
+      src="https://static.zdassets.com/ekr/snippet.js?key=3292009a-b672-4683-8691-2bf2475a3398"
+    >
+      { " " }
+    </script>
+    <script type="module" crossorigin src="/assets/index-Dfmza6WM.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-C-Qit7qf.css">
+  </head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-5MNP6L3Q"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+      <div class="full-page-loader"></div>
+    </div>
+  </body>
+</html>
