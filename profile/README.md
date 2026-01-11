@@ -11,13 +11,12 @@ The mission is to develop a practical, EEG-based system through the following go
 * **Develop an EEG-based BCI system**: Enabling children to control operating system interfaces using only brain signals.
 * **Demonstrate proof-of-concept**: Validating usability through a real-world case study at **Lady Ridgeway Hospital**.
 * **Build a scalable framework**: Creating a solution adaptable for patients with stroke, spinal cord injuries, or neurodegenerative diseases.
-* **Contribute to academic knowledge**: Driving innovation through research publications and departmental capacity building.
-
+* **Contribute to academic knowledge**: Driving innovation through research publications.
 ---
 
 ## Current Progress & Technical Updates (November 2025)
 
-As of late 2025, the project has transitioned from foundational planning to practical system validation and deployment readiness.
+As of early 2026, the project has transitioned from foundational planning to practical system validation and deployment readiness.
 
 ### Hardware & Headset Integration
 * **Custom Headset Design**: Developed a ventilator-compatible headset that avoids structural parts near the chin and mouth. 
