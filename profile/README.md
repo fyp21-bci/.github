@@ -40,6 +40,8 @@ As of early 2026, the project has transitioned from foundational planning to pra
 
 The project utilizes the **OpenBCI** platform for high-quality neural signal acquisition.
 
+![BCI Headset](../Project%20Images/Headset.jpeg)
+
 * **High-Quality Precision**: Cyton boards capture detailed electrical signals, which is essential for accurate command interpretation.
 * **Pediatric Suitability**: Ultracortex headsets are adjustable and comfortable for children.
 * **Modularity**: The hardware architecture allows testing of multiple paradigms, including **SSVEP**, **P300**, and **Motor Imagery**.
