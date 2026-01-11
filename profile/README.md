@@ -14,7 +14,7 @@ The mission is to develop a practical, EEG-based system through the following go
 * **Contribute to academic knowledge**: Driving innovation through research publications.
 ---
 
-## Current Progress & Technical Updates (November 2025)
+## Current Progress & Technical Updates (January 2026)
 
 As of early 2026, the project has transitioned from foundational planning to practical system validation and deployment readiness.
 
