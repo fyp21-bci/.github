@@ -43,7 +43,8 @@ class SSVEPStimulator:
             color=config.BACKGROUND_COLOR,
             units='pix',
             monitor=self.mon,
-            allowGUI=not config.FULLSCREEN
+            allowGUI=not config.FULLSCREEN,
+            waitBlanking=True  # Enable V-Sync to prevent screen tearing
         )
         
         # Get actual refresh rate
